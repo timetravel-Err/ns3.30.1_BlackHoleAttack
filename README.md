@@ -3,9 +3,9 @@
 BlackHoleAttack performed on AODV routing protocol
 
 
-(a) aodv-routing-protocol_basic.cc for every packet dropping behavior
+(a) aodv-routing-protocol_basic.cc for every packet drop behavior
 
-(b) aodv-routing-protocol_advance.cc for alternate packet dropping behavior
+(b) aodv-routing-protocol_advance.cc for alternate packet drop behavior
 
 Steps to follow :
 
