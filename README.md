@@ -12,4 +12,4 @@ Steps to follow :
 1. Rename the choice of attack file to  aodv-routing-protocol.cc 
 2. Simply copy the file and replace with the existing .cc and .h files in adov/model/
 2. Copy the blackhole.cc and myapp.h to scratch folder.
-3. Use " ./waf --run blackhole.cc  " command to execute the script.
+3. Use " ./waf --run blackhole " command to execute the script.
